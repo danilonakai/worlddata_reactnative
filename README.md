@@ -1,4 +1,4 @@
-# WordDataApp (React Native + REST Countries API)
+# WorldDataApp (React Native + REST Countries API)
 
 ## Overview
 
